@@ -1,0 +1,4 @@
+theia@theia-coi211:/home/project/mcino-Introduction-to-Git-and-GitHub$ git branch -vv
+* bug-fix-revert 7113141 [origin/bug-fix-revert] Revert "Changed the year of from 2022 to 2023 to the readme document"
+  bug-fix-typo   ed96647 [origin/bug-fix-typo] Changed the year of from 2022 to 2023 to the readme document
+  main           ed96647 [origin/main: ahead 1] Changed the year of from 2022 to 2023 to the readme document
